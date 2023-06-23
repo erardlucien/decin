@@ -1,4 +1,4 @@
-# my_app
+# Decin
 
 the counter beginnt with 50
 
